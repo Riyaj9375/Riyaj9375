@@ -1,5 +1,3 @@
----
-
 # Hi there! 👋 I'm Riyaj9375
 
 ## 👀 About Me  
