@@ -1,5 +1,3 @@
-Here's a polished and engaging version of your README:  
-
 ---
 
 # Hi there! 👋 I'm Riyaj9375
