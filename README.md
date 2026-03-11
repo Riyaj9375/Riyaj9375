@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Riyaj9375
+# Hi there! 👋 I'm Riyaz Mujawar
 
 ## 👀 About Me  
 - 💻 I’m passionate about **Web Development** and love exploring the endless possibilities of the web!  
