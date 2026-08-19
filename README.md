@@ -14,7 +14,7 @@
 
 💻 Results-oriented **Full Stack Developer** with hands-on experience building scalable web applications using **React.js, Node.js, Express.js, and MongoDB**.
 
-🚀 Currently working as **Front-End Developer (Trainee) at The Data Tech Labs**
+🚀 Currently working as **JR Software Engineer at The Data Tech Labs**
 
 🌱 Currently learning advanced **MERN stack architecture**
 
