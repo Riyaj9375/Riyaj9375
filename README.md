@@ -21,7 +21,7 @@
 🎯 Passionate about building **responsive, high-performance web applications**
 
 🌐 **Portfolio:**
-https://riyaj9375.github.io/Portfolio/
+portfolio-riyaz-two.vercel.app
 
 ---
 
